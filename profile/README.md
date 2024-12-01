@@ -22,7 +22,7 @@
 | <a href="https://github.com/jinsol24">@jinsol24</a> | X-RAY 탐지 yOLO 모델 개발 |
 | <a href="https://github.com/migumi-21c">@migumi-21cc</a> | X-RAY 탐지 yOLO 모델 개발 |
 | <a href="https://github.com/ydjwls">@ydjwls</a>   | 메인 프로그램 프론트엔드(streamlit), aws 아키텍트 |
-| <a href="https://github.com/YoujeongChoi">@YoujeongChoi</a>  | 챗봇 서비스 프론트엔드(streamlit), 챗봇 서비스 연결 |
+| <a href="https://github.com/YoujeongChoi">@YoujeongChoi</a>  | 챗봇 서비스 프론트엔드(streamlit), 챗봇 서비스 연결, aws 아키텍트 |
 
 
 <br/>
